@@ -4,3 +4,4 @@ Favorite Hobbies
 	- Reading
 	- Cycling
 	- Programming
+	- Cleaning
